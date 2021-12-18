@@ -9,7 +9,7 @@
 Escrever o que foi utilizado no matlab qual o algoritmo de otmizaçao utilizado
 
 <p align="center">
-  <img width="480" height="690" src="Assets/cover.png">
+  <img width="480" height="690" src="https://drive.google.com/file/d/1ljwtXwEsfWM89X_RRIx_Ig3qzZN251Xs/view?usp=sharing">
 </p>
 
 alinhar texto no centro
