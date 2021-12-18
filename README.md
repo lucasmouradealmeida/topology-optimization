@@ -8,15 +8,7 @@
 ## **MATLAB**
 Escrever o que foi utilizado no matlab qual o algoritmo de otmizaçao utilizado
 
-<iframe src="https://drive.google.com/file/d/1ljwtXwEsfWM89X_RRIx_Ig3qzZN251Xs/preview" width="480" height="690" allow="autoplay"></iframe>
-
-[![Project Optimization](https://drive.google.com/file/d/1ljwtXwEsfWM89X_RRIx_Ig3qzZN251Xs/preview)](https://www.amazon.com.br/Project-Optimization-Using-MATLAB-Solver/dp/311062561X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1639762406&sr=8-6)
-
-[**Project Optimization**][livro-id]
-
-[livro-id]: https://www.amazon.com.br/Project-Optimization-Using-MATLAB-Solver/dp/311062561X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1639762406&sr=8-6
-
-
+[![](https://i.imgur.com/iReksn7.png)](https://www.amazon.com.br/Project-Optimization-Using-MATLAB-Solver/dp/311062561X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1639762406&sr=8-6)
 
 ---
 ## **Python**
