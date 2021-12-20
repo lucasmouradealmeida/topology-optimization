@@ -1,20 +1,20 @@
 # **Otimização Topológica**
 
-<div style="text-align: justify"> O presente programa foi desenvolvido como parte de uma Iniciação Científica na Universidade Federal do ABC, com orientação do Prof. Dr. Marcelo Araujo da Silva. </div>
+<p align="justify"> O presente programa foi desenvolvido como parte de uma Iniciação Científica na Universidade Federal do ABC, com orientação do Prof. Dr. Marcelo Araujo da Silva. </p>
 
 
 ## **Introdução**
 
-<div style="text-align: justify"> Otimização pode ser definida como um procedimento pelo qual é possível encontrar uma solução ou um conjunto de soluções ótimas para uma determinada função ou um conjunto de funções, que regem um problema específico, submetidas a restrições. Os algoritmos de otimização introduzem estratégias numéricas na busca por soluções ótimas de engenharia. </div>
+<p align="justify"> Otimização pode ser definida como um procedimento pelo qual é possível encontrar uma solução ou um conjunto de soluções ótimas para uma determinada função ou um conjunto de funções, que regem um problema específico, submetidas a restrições. Os algoritmos de otimização introduzem estratégias numéricas na busca por soluções ótimas de engenharia. </p>
 
 
 ## **Fundamentação** **Teórica**
 
-<div style="text-align: justify"> O procedimento utilizado no presente projeto conta com o uso do Método dos Elementos Finitos (MEF) juntamente com um algoritmo de otimização, para se obter um domínio otimizado. O MEF consiste em discretizar o domínio da estrutura em vários subdomínios, denominados elementos. É montada uma equação para cada elemento e então estas equações são combinadas para se determinar uma expressão que representa a estrutura como um todo, sendo então resolvida e  determinados os deslocamentos, deformações e tensões no domínio da estrutura. Já o algoritmo de otimização consiste em determinar a espessura de cada elemento, de forma a minimizar a função massa total da estrutura, respeitando-se os limites de tensões admissíveis. </div>
+<p align="justify"> O procedimento utilizado no presente projeto conta com o uso do Método dos Elementos Finitos (MEF) juntamente com um algoritmo de otimização, para se obter um domínio otimizado. O MEF consiste em discretizar o domínio da estrutura em vários subdomínios, denominados elementos. É montada uma equação para cada elemento e então estas equações são combinadas para se determinar uma expressão que representa a estrutura como um todo, sendo então resolvida e  determinados os deslocamentos, deformações e tensões no domínio da estrutura. Já o algoritmo de otimização consiste em determinar a espessura de cada elemento, de forma a minimizar a função massa total da estrutura, respeitando-se os limites de tensões admissíveis. </p>
 
 <br />
 
-<p style="text-align:center;"><img src="https://i.imgur.com/M6LU8xf.png" alt="Logo"></p>
+<p align="justify"><img src="https://i.imgur.com/M6LU8xf.png" alt="Logo"></p>
 
 <br />
 
