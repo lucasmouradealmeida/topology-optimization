@@ -1,4 +1,4 @@
-## **MATLAB**
+# **MATLAB**
 
 <p align="justify"> O MATLAB como uma linguagem de programação de alto nível permite a solução de inúmeros problemas científicos com sua sintaxe acessível, excelentes ferramentas de depuração e extensas oportunidades de manipulação de gráficos que permite ao usuário que se concentre no contexto físico e matemático do problema de otimização sem se distrair com problemas de implementação técnica. </p>
 
